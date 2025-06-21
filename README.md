@@ -37,6 +37,8 @@ python generate_resolution.py
 
 Use the Google Colab and a free Tesla T4 gpu [Colab link click](https://colab.research.google.com/drive/13Qh9umwRM1OMRiNLyILbpq3k9h55FjNZ?usp=sharing).
 
+👀 A specific version for [APTOSxJSAIO 2025 hands-on tutorial](https://colab.research.google.com/drive/1ppzxBElLa_yJl-V3IWKyQQDG_2m6OWVL#scrollTo=vnEudwJimFgt)
+
 
 ### Running on local/virtual machine
 
