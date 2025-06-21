@@ -105,12 +105,12 @@ if [ $NO_FEATURE -eq 0 ]; then
   python create_datasets_disc_centred_C.py
   python create_datasets_macular_centred_B.py
   python create_datasets_macular_centred_C.py
-  cd ../../..
+  cd ../..
 
   cd M3_feature_whole_pic/retipy/
   python create_datasets_macular_centred.py
   python create_datasets_disc_centred.py
-  cd ../../..
+  cd ../..
 
   python csv_merge.py
 else
